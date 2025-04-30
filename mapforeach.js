@@ -25,3 +25,9 @@ products.forEach(produc ={
 
 })
 
+////////////////////////////////////////////////////////////
+
+const resultt = products.filter(producc=> producc.color=='black')
+const resulttt = products.filter(producc=> producc.price>=16000)
+console.log(resultt)
+console.log(resulttt)
