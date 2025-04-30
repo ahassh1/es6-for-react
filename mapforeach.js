@@ -15,3 +15,13 @@ console.log(result)
 
 const pri = products.map(product => product.price)
 console.log(pri)
+
+///////////////////////////////////////////////////////
+
+products.forEach(produc => console.log(produc));
+
+
+products.forEach(produc ={
+
+})
+
