@@ -31,3 +31,8 @@ const resultt = products.filter(producc=> producc.color=='black')
 const resulttt = products.filter(producc=> producc.price>=16000)
 console.log(resultt)
 console.log(resulttt)
+
+///////////////////////////////////////////////////////////
+
+const search = products.find(produ => produ.color != 'black')
+console.log(search)
